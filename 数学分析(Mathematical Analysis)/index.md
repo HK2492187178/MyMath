@@ -1,18 +1,8 @@
-# Functional Analysis
+# Mathematical Analysis
 
-## Core Spaces
+## 极限论
 
-- [Banach Space](banach-space.md)
-- [Hilbert Space](hilbert-space.md)
-
----
-
-## Operators
-
-- [Bounded Operator](bounded-operator.md)
+- [级数(Series)](级数(Series).md)
 
 ---
 
-## Advanced Topics
-
-- [Spectral Theory](spectral-theory.md)
